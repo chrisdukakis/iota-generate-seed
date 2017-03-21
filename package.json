@@ -1,0 +1,28 @@
+{
+  "name": "iota-generate-seed",
+  "version": "1.0.0",
+  "description": "Generates a suitable IOTA seed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdukakis/iota-generate-seed.git"
+  },
+  "keywords": [
+    "iota",
+    "seed",
+    "generate"
+  ],
+  "author": "Chris Dukakis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdukakis/iota-generate-seed/issues"
+  },
+  "homepage": "https://github.com/chrisdukakis/iota-generate-seed#readme",
+  "dependencies": {
+    "randomstring": "^1.1.5"
+  },
+  "bin": "bin/generate"
+}

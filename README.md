@@ -9,7 +9,7 @@ Maximum security is achieved by a random 81-chars seed. Longer seeds won't incre
 
 ## Installation
 
-Use [npm](https://github.com/npm/npm) to install:
+Use [npm](https://www.npmjs.com/) to install:
 
 ```
 npm install iota-generate-seed
